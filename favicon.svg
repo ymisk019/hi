@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">ألعابنا الورقية</title>
+  <rect x="3" y="3" width="58" height="58" rx="15" fill="#244a3b" stroke="#e8f1e9" stroke-width="3"/>
+  <path d="M14 42h36v8H14z" fill="#f2eadb"/>
+  <path d="M19 42V20h26v22M23 38V24h18v14" fill="none" stroke="#f7eddc" stroke-width="3" stroke-linejoin="round"/>
+  <path d="M14 50l7-4h22l7 4" fill="none" stroke="#c88a4a" stroke-width="2" stroke-linejoin="round"/>
+  <circle cx="30" cy="33" r="4" fill="#d7a451" stroke="#fff5e3" stroke-width="1.5"/>
+  <path d="M48 14l4 3-2 5-5-1-1-5z" fill="#e3c178"/>
+</svg>
